@@ -1,0 +1,160 @@
+body
+{
+background-color: lightcyan ;
+}
+
+li
+{
+    font-size: 20px;
+    
+}
+
+h1
+{
+    font-size: 25px;
+    padding-left: 70%;
+    background-color: aliceblue;
+}
+h2
+{
+    font-size: 50px;
+}
+
+h3
+{
+    padding-right: 100px;
+    background-color: white;
+}
+
+#div1
+{
+    width: 33.33%;
+    float: right;
+    font-size: 25px;
+}
+#div2
+{
+    width: 33.33%;
+    float: left;
+    font-size: 25px;
+}
+#div3
+{
+    width:33.33%;
+    float: middle;
+    font-size: 25px;
+}
+#div4
+{
+    width: 33.33%;
+    float: right;
+    font-size: 25px;
+}
+#div5
+{
+    width: 33.33%;
+    float: left;
+    font-size: 25px;
+}
+#div6
+{
+    width: 33.33%;
+    float: middle;
+    font-size: 25px;
+}
+#div7
+{
+    width: 33.33%;
+    float: right;
+    font-size: 25px;
+}
+#div8
+{
+    width: 33.33%;
+    float: left;
+    font-size: 25px;
+}
+#div9
+{
+    width: 33.33%;
+    float: middle;
+    font-size: 25px;
+}
+#div10
+{
+    width: 33.33%;
+    float: right;
+    font-size: 25px;
+}
+#div11
+{
+    width: 33.33%;
+    float: left;
+    font-size: 25px;
+}
+#div12
+{
+    width: 33.33%;
+    float: middle;
+    font-size: 25px;
+}
+#div13
+{
+    width: 33.33%;
+    float: right;
+    font-size: 25px;
+}
+#div14
+{
+    width: 33.33%;
+    float: left;
+    font-size: 25px;
+}
+#div15
+{
+    width: 33.33%;
+    float: middle;
+    font-size: 25px;
+}
+
+h5
+{
+    font-size: 35px;
+    color: red;
+}
+#div16
+{
+    float: left;
+    font-size: 25px;
+    width: 30%;
+}
+#div17
+{
+    float: middle;
+    font-size: 25px;
+    width: 30%;
+}
+#div18
+{
+    float: right;
+    font-size: 25px;
+    width: 30%;
+}
+#div19
+{
+    float: left;
+    font-size: 20px;
+    width: 25%;
+}
+#div20
+{
+    float: middle;
+    font-size: 20px;
+    width: 25%;
+}
+#div21
+{
+    float: right;
+    font-size: 20px;
+    width: 25%;
+}
